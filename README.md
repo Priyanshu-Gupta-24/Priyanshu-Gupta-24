@@ -87,7 +87,7 @@ Fast Indian pincode lookup with autocomplete and a clean UI.
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-0057A8?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://custom-icon-badges.demolab.com/badge/Java-0057A8?style=for-the-badge&logo=java&logoColor=white&logoSize=auto)
 ![Python](https://img.shields.io/badge/Python-0a6ebd?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-0066CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0052a3?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -149,15 +149,15 @@ Fast Indian pincode lookup with autocomplete and a clean UI.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Gupta-24&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=4DA6FF&icon_color=4DA6FF&text_color=ffffff" alt="GitHub Stats"/>
+      <img src="https://github-stats-extended.vercel.app/api?username=Priyanshu-Gupta-24&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=4DA6FF&icon_color=4DA6FF&text_color=ffffff" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Gupta-24&layout=compact&hide_border=true&count_private=true&bg_color=0d1117&title_color=4DA6FF&text_color=ffffff" alt="Top Languages"/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Priyanshu-Gupta-24&layout=donut&hide_border=true&count_private=true&bg_color=0d1117&title_color=4DA6FF&text_color=ffffff&hide=jupyter%20notebook" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Gupta-24&hide_border=true&background=0d1117&ring=4DA6FF&fire=4DA6FF&currStreakLabel=4DA6FF&sideLabels=4DA6FF&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Priyanshu-Gupta-24&hide_border=true&background=0d1117&ring=4DA6FF&fire=4DA6FF&currStreakLabel=4DA6FF&sideLabels=4DA6FF&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 
 </div>
 
